@@ -7,6 +7,8 @@ team_tyrosine = [
     'hobby_01': ['music', 'travelling', 'learning', 'swimming', 'running', 'dancing', 'history countries'],
     'country_01': 'Italian living in UK',
     'discipline_01': 'microalgae biotechnology and ecology',
+    'github_link_01': 'https://github.com/lauramazzu/hackbio-biocoding-internship',
+    'linkedIn_link_01': 'http://www.linkedin.com/in/laura-mazzucchi-phd-b72151b2', 
     'preferred programming language_01': 'python',
 },
 {
@@ -17,6 +19,8 @@ team_tyrosine = [
     'hobby_02': ['reading', 'learning new things'],
     'country_02': 'Nigeria',
     'discipline_02': 'Biochemistry',
+    'github_link_02': 'https://github.com/lauramazzu/hackbio-biocoding-internship',
+    'linkedIn_link_02': 'http://www.linkedin.com/in/laura-mazzucchi-phd-b72151b2',
     'preferred programming language_02': 'R',
 },
 {
@@ -27,6 +31,8 @@ team_tyrosine = [
     'hobby_03': 'reading',
     'country_03': 'Nigeria',
     'discipline_03': 'Biology',
+    'github_link_03': 'https://github.com/TemitopeOlajide1/hackbio-biocoding-internship-',
+    'linkedIn_link_03': 'https://www.linkedin.com/in/temitope-esther-olajide/',
     'preferred programming language_03': 'Python',
 },
 {
@@ -37,6 +43,8 @@ team_tyrosine = [
     'hobby_04': ['music', 'movies', 'reading'],
     'country_04': 'Ghana',
     'discipline_04': 'Biomedical Engineering',
+    'github_link_04': 'https://github.com/rbatoh/Hackbio-biocoding-internship.git',
+    'linkedIn_link_04': ' https://www.linkedin.com/in/rebecca-batoh/',
     'preferred programming language_04': 'Python',
 },
 {   # Details for member 5
@@ -46,6 +54,8 @@ team_tyrosine = [
         'hobby_05': ['music', 'learning', 'gaming'],
         'country_05': 'Nigeria',
         'discipline_05': 'Plant Biology and biotechnology',
+        'github_link_05': 'https://github.com/Rotimi626/',
+        'linkedIn_link_05': 'https://www.linkedin.com/in/emma-igiehon-300a2a260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         'preferred_programming_language_05': 'python',
     },
  {  # Details for member 6
@@ -55,6 +65,8 @@ team_tyrosine = [
         'hobby_06': ['music', 'watching football', 'movies'],
         'country_06': 'Nigeria',
         'discipline_06': 'Animal Science',
+        'github_link_06': 'https://github.com/Osas626/',
+        'linkedIn_link_06': 'https://www.linkedin.com/posts/quant-insider_these-10-quantitative-finance-courses-and-activity-7292815982799007744-yqdH?utm_source=share&utm_medium=member_android',
         'preferred_programming_language_06': 'python',
 }
 ]
